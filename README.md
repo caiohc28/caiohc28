@@ -17,7 +17,7 @@ Atualmente estou desenvolvendo projetos envolvendo:
 
 ### 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caio-henrique-teixeira-silva-carnetti-9272572bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/caio-carnetti)
 
 ---
 
@@ -42,3 +42,11 @@ Atualmente estou desenvolvendo projetos envolvendo:
 </div>
 
 ---
+
+### 📚 Atualmente estudando
+
+Atualmente estou aprofundando meus estudos em **análise de dados utilizando Python**, trabalhando com bibliotecas para **tratamento, exploração e visualização de dados**.
+
+Também estudo **modelagem e manipulação de bancos de dados relacionais**, aplicando consultas SQL, criação de tabelas, procedures e análise de informações armazenadas em banco de dados.
+
+Busco desenvolver projetos práticos focados em **análise exploratória de dados, identificação de padrões e geração de insights**, utilizando programação e estatística básica para apoiar a tomada de decisão baseada em dados.
