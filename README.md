@@ -2,7 +2,7 @@
 
 ### Analista de Dados Júnior | Data Analytics • Python • SQL • Power BI
 
-🎓 Análise e Desenvolvimento de Sistemas - FIAP | Pós-graduando em Data Analytics - FIAP
+🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP | Pós-graduando em Data Analytics - FIAP
 
 ## 💡 Sobre mim
 
