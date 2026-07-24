@@ -8,7 +8,7 @@
 
 Pós-graduando em **Data Analytics (FIAP)** e formado em **Análise e Desenvolvimento de Sistemas (FIAP)**, com foco em **Python, SQL e Power BI**.
 
-Atuo com **qualidade e validação de dados (WebGIS)** e desenvolvo projetos de análise de dados envolvendo **ETL, EDA, dashboards e Machine Learning**.
+Atuei com **qualidade e validação de dados (WebGIS)** e desenvolvo projetos de análise de dados envolvendo **ETL, EDA, dashboards e Machine Learning**.
 
 Atualmente, busco minha primeira oportunidade como **Analista de Dados Júnior** e utilizo este GitHub para compartilhar meus projetos e evolução na área.
 
