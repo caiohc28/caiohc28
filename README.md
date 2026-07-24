@@ -1,54 +1,91 @@
-### 👋 Olá! Eu sou o Caio Carnetti
+<h1 align="center">Olá, eu sou o Caio Carnetti 👋</h1>
+<h3 align="center">Analista de Dados Júnior | Python • SQL • Power BI • ETL • Estatística</h3>
 
-📊 **Analista de Dados em formação | Python | SQL | Data Visualization**
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e sigo focado na **área de dados**.
-Gosto de transformar **dados em insights que ajudam na tomada de decisões**.
-
-Atualmente estou desenvolvendo projetos envolvendo:
-
-* 📊 Análise exploratória de dados (EDA)
-* 🐍 Python para análise de dados
-* 📈 Visualização de dados
-* 🗄️ SQL e bancos de dados
-* 🤖 Introdução a Machine Learning
-
----
-
-### 🔗 Conecte-se comigo
-
-
-<a href="https://www.linkedin.com/in/caio-carnetti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
-<a href = "mailto:chcarnetti20@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-carnetti" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chcarnetti20@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/caiohc28" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🧭 Sobre mim
 
-<div style="display: inline_block"><br>
+Sou pós-graduando em **Data Analytics** (FIAP) e formado em **Análise e Desenvolvimento de Sistemas** (FIAP), com experiência prática em qualidade de dados e projetos autorais em Python, SQL, Power BI e Excel.
 
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+Sempre gostei de entender **como as coisas funcionam** antes de aceitar as respostas — foi essa curiosidade que despertou minha paixão pela área de dados, onde consigo transformar perguntas em análises que apoiam decisões baseadas em evidências. Gosto de organizar informações, identificar padrões e resolver problemas complexos, sempre unindo **pensamento lógico, atenção a detalhes e comunicação clara de insights**.
 
-<img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img align="center" alt="excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
+🔎 Atualmente em busca da minha **primeira oportunidade como Analista de Dados Júnior**.
 
 ---
 
-### 📚 Atualmente estudando
+### 💼 Experiência
 
-Atualmente estou aprofundando meus estudos em **análise de dados utilizando Python**, trabalhando com bibliotecas para **tratamento, exploração e visualização de dados**.
+**Analista de Dados Operacionais e Infraestrutura** — *Intellissis - Sistemas Inteligentes*
+`06/2025 – 07/2026`
 
-Também estudo **modelagem e manipulação de bancos de dados relacionais**, aplicando consultas SQL, criação de tabelas, procedures e análise de informações armazenadas em banco de dados.
+Atuação remota e autônoma, classificando cerca de **4.000 registros/mês** de infraestrutura elétrica (avarias, tipos de estrutura, irregularidades, equipamentos) via sistema proprietário, alimentando dados geoespaciais (WebGIS) em contratos como a **Light Serviços de Eletricidade (RJ)**. Experiência prática em garantia de qualidade e integridade de dados na origem — reforçando que a qualidade do dado é a base de qualquer análise confiável.
 
-Busco desenvolver projetos práticos focados em **análise exploratória de dados, identificação de padrões e geração de insights**, utilizando programação e estatística básica para apoiar a tomada de decisão baseada em dados.
+---
+
+### 📊 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Gastos do Governo Federal (CPGF)** | Pipeline de limpeza, tratamento de nulos e categorização de despesas do Cartão de Pagamento do Governo, com mapeamento visual dos 10 órgãos com maior volume de gastos | `Python` `Pandas` `Matplotlib` |
+| **Dashboard de Risco de Crédito** | Painel interativo para monitorar carteira em risco, inadimplência e volume de empréstimos, com indicadores de negócio via DAX | `SQL` `Power BI` `DAX` |
+| **Modelagem Preditiva com ML** | Implementação ponta a ponta com pré-processamento, normalização e treinamento de modelos de regressão e classificação, comparados via Accuracy e RMSE | `Scikit-learn` `Keras/TensorFlow` |
+| **Scout de Dados — Futebol** | Coleta multi-fonte (Sofascore, Transfermarkt, GE) e tratamento via Power Query, com indicadores de eficiência técnica em Tabelas Dinâmicas | `Excel` `Power Query` |
+
+> 📌 Confira os repositórios fixados abaixo para o código de cada projeto.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**Áreas de foco:** EDA · Estatística Descritiva · Machine Learning (Regressão e Classificação) · ETL · Data Labeling · Data Quality · Auditoria e Validação de Registros
+
+---
+
+### 🎓 Formação
+
+- **Pós-graduação em Data Analytics** — FIAP *(07/2026 – atual)*
+  Business Analytics, Estatística, Machine Learning, Big Data (SQL/NoSQL, PySpark), Docker/Flask, Dashboards, IA Generativa
+- **Análise e Desenvolvimento de Sistemas** — FIAP *(01/2024 – 01/2026)*
+  Python, SQL, C#, IA Generativa, Machine/Deep Learning, Bancos Relacionais, DevOps
+
+### 📜 Certificações
+
+- Data Science: Explorando e Analisando Dados — Alura (2026)
+- Data Analysis com Google Sheets — Alura (2026)
+- Git e GitHub: Compartilhando e Colaborando em Projetos — Alura (2026)
+- Qualificação Profissional em Estratégia e Inovação Tecnológica com Aplicações em IA e IoT — FIAP (2025)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiohc28&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiohc28" alt="GitHub Streak" height="165"/>
+</p>
