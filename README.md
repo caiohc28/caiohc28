@@ -1,3 +1,7 @@
+# Olá, eu sou o Caio Carnetti 👋
+
+### Analista de Dados Júnior | Data Analytics • Python • SQL • Power BI
+
 🎓 Análise e Desenvolvimento de Sistemas - FIAP | Pós-graduando em Data Analytics - FIAP
 
 💡 Sou Analista de Dados com foco em Python, SQL e Power BI. 🚀 Atualmente atuo com qualidade, auditoria e validação de dados geoespaciais (WebGIS) em infraestrutura elétrica. 💼 Tenho experiência prática em projetos autorais ponta a ponta, da limpeza e tratamento de dados até dashboards e modelos de Machine Learning. 🔧 Proficiência em ferramentas como Power BI, DAX, Excel, Scikit-learn e TensorFlow/Keras. 🧠 Base sólida em estatística, análise exploratória de dados (EDA) e versionamento de código. 📚 Em constante evolução na FIAP, onde curso Pós-graduação em Data Analytics e aprofundo conhecimentos em Big Data (SQL/NoSQL, PySpark), Docker/Flask e IA Generativa. 🤝 Apaixonado por transformar perguntas em análises e decisões baseadas em evidências, em busca da minha primeira oportunidade como Analista de Dados Júnior.
