@@ -1,6 +1,6 @@
 # Olá, eu sou o Caio Carnetti 👋
 
-### Analista de Dados Júnior | Data Analytics • Python • SQL • Power BI
+### Analista de Dados Júnior | Data Analytics | Python | SQL | Power BI | Excel | Estatística | ETL
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP | Pós-graduando em Data Analytics - FIAP
 
@@ -15,7 +15,7 @@ Aqui você encontrará projetos de **Análise de Dados, ETL e Dashboards**, dese
 
 🛠 Tech Stack
 
-* **Linguagens e Banco de Dados:** Python (Pandas), SQL, NoSQL
+* **Linguagens e Banco de Dados:** Python (Pandas, Maatplotlib), SQL, NoSQL
 * **Visualização e BI:** Power BI, DAX, Excel
 * **Análise e Modelagem:** EDA (Análise Exploratória de Dados), Estatística Descritiva
 * **Qualidade e Estruturação de Dados:** ETL, Data Labeling, Data Quality, Auditoria e Validação de Registros Operacionais
