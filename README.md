@@ -6,7 +6,7 @@
 
 **Python  ·  SQL  ·  Power BI  ·  Machine Learning  ·  Estatística**
 
-Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em Data Analytics (FIAP)
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em Data Analytics (FIAP)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-carnetti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chcarnetti20@gmail.com)
@@ -15,6 +15,8 @@ Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em D
 </div>
 
 ---
+
+<div align="center">
 
 ## Principais competências
 
@@ -37,6 +39,5 @@ Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em D
 
 ---
 
-<div align="center">
 
 </div>
