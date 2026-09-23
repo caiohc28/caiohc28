@@ -1,10 +1,10 @@
-<div align="center">
+<img width="879" height="728" alt="image" src="https://github.com/user-attachments/assets/7de94e7f-e2d9-4104-9f61-aa408bb8093f" /><div align="center">
 
 # Caio Carnetti
 
 ### Analista de Dados
 
-**Python  ·  SQL  ·  Power BI  ·  Machine Learning  ·  Estatística**
+**Python  ·  SQL  ·  Power BI  ·  ETL  ·  Estatística**
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em Data Analytics (FIAP)
 
@@ -20,7 +20,7 @@
 
 ## Principais competências
 
-| Área | Ferramentas |
+| Área | Competências |
 |---|---|
 | **Análise de Dados** | Python (Pandas), SQL, EDA, Estatística Descritiva |
 | **Machine Learning** | Modelos Preditivos, Scikit-learn |
