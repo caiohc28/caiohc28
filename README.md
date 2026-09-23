@@ -2,7 +2,7 @@
 
 # Caio Carnetti
 
-### Analista de Dados Júnior
+### Analista de Dados
 
 **Python  ·  SQL  ·  Power BI  ·  Machine Learning  ·  Estatística**
 
