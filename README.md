@@ -1,5 +1,5 @@
-<img width="879" height="728" alt="image" src="https://github.com/user-attachments/assets/7de94e7f-e2d9-4104-9f61-aa408bb8093f" /><div align="center">
-
+<div align="center">
+  
 # Caio Carnetti
 
 ### Analista de Dados
