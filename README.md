@@ -1,27 +1,42 @@
-# Olá, eu sou o Caio Carnetti 👋
+<div align="center">
 
-### Analista de Dados Júnior | Data Analytics | Python | SQL | Power BI | Excel | Estatística | ETL
+# Caio Carnetti
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP | Pós-graduando em Data Analytics - FIAP
+### Analista de Dados Júnior
 
-## 💡 Sobre mim
+**Python  ·  SQL  ·  Power BI  ·  Machine Learning  ·  Estatística**
 
-Pós-graduando em **Data Analytics (FIAP)**, com foco em **Python, SQL, Power BI e Estatística**.
+Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em Data Analytics (FIAP)
 
-Aqui você encontrará projetos de **Análise de Dados, ETL e Dashboards**, desenvolvidos para aplicar boas práticas e resolver problemas reais.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-carnetti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chcarnetti20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiohc28)
 
-🎯 Em busca da minha primeira oportunidade como **Analista de Dados Júnior**.
+</div>
+
+---
+
+## Principais competências
+
+| Área | Ferramentas |
+|---|---|
+| **Análise de Dados** | Python (Pandas), SQL, EDA, Estatística Descritiva |
+| **Machine Learning** | Modelos Preditivos, Scikit-learn |
+| **Visualização & BI** | Power BI, DAX, Excel |
+| **ETL & Qualidade de Dados** | ETL, Auditoria e Validação de Registros |
+| **Versionamento** | Git, GitHub |
 
 
-🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-* **Linguagens e Banco de Dados:** Python (Pandas, Maatplotlib), SQL, NoSQL
-* **Visualização e BI:** Power BI, DAX, Excel
-* **Análise e Modelagem:** EDA (Análise Exploratória de Dados), Estatística Descritiva
-* **Qualidade e Estruturação de Dados:** ETL, Data Labeling, Data Quality, Auditoria e Validação de Registros Operacionais
-* **Ferramentas:** Git, GitHub
+---
 
+<div align="center">
 
-📫 Fale Comigo 📫
-
-<a href="https://www.linkedin.com/in/caio-carnetti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎ <a href="mailto:chcarnetti20@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎ ‎ ‎ <a href="https://github.com/caiohc28" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
