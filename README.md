@@ -4,7 +4,7 @@
 
 ### Analista de Dados
 
-**Python  ·  SQL  ·  Power BI  ·  ETL  ·  Estatística**
+**SQL · Python · Power BI · Excel · ETL · Estatística**
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (FIAP) · Pós-graduando em Data Analytics (FIAP)
 
